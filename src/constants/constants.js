@@ -1,0 +1,52 @@
+export const projects = [
+  {
+    title: 'Strawberry.Net',
+    description: "Using HTML, CSS and JavaScript i have built with group of 4, a clone Strawberry.net is an e-commerce website dealing with the sale of cosmetic products.",
+    image: '/images/1.jpg',
+    // tags: ['Mongo', 'Express', 'React', 'Node'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: '#',
+    visit: 'https://github.com/surajmasai/strawberrynet',
+    blog: "https://myfistblog.hashnode.dev/experience-of-cloning-strawberrynetcom",
+    id: 0,
+  },
+  {
+    title: 'Boat-lifestyle.com',
+    description: "Using HTML, CSS and JavaScript i have built, a clone boat-lifestyle.com This is a ecommerce website, which sells speakers, earphones & headphones and smart watches",
+    image: '/images/2.png',
+    // tags: ['React', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://priceless-hypatia-7ae32e.netlify.app',
+    visit: 'https://github.com/surajmasai/boatClone',
+    blog: "https://medium.com/@sksurajkumar7080/experience-cloning-boat-lifestyle-com-47f1b12ce349",
+    id: 1,
+  },
+  {
+    title: 'InternTheory',
+    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    image: '/images/3.png',
+    tags: ['HTML', 'CSS', "javaScript", "Mock Server", "localstorage"],
+    source: '#',
+    visit: 'https://github.com/RoushanFW196/intern-theoryclone-unit3-project',
+    blog: "https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922",
+    id: 2,
+  },
+  {
+    title: 'InternTheory',
+    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    image: '/images/3.png',
+    tags: ['E js', 'Node', 'express', "mongoDB"],
+    source: 'https://intern-theory-clone.herokuapp.com/InternTheory ',
+    visit: 'https://github.com/RoushanFW196/Intern-Theory-clone-Ejs',
+    blog: "/",
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
