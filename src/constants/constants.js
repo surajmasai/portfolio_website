@@ -23,7 +23,7 @@ export const projects = [
   },
   {
     title: 'InternTheory',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
     image: '/images/3.png',
     tags: ['HTML', 'CSS', "javaScript", "Mock Server", "localstorage"],
     source: '#',
@@ -33,12 +33,12 @@ export const projects = [
   },
   {
     title: 'InternTheory',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
     image: '/images/3.png',
     tags: ['E js', 'Node', 'express', "mongoDB"],
     source: 'https://intern-theory-clone.herokuapp.com/InternTheory ',
     visit: 'https://github.com/RoushanFW196/Intern-Theory-clone-Ejs',
-    blog: "/",
+    blog: "https://medium.com/@roushankumar6338/intern-theory-clone-abb5f424cb5d",
     id: 3,
   },
 ];
