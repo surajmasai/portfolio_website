@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Strawberry.Net',
+    title: 'Strawberrynet.com',
     description: "Using HTML, CSS and JavaScript i have built with group of 4, a clone Strawberry.net is an e-commerce website dealing with the sale of cosmetic products.",
     image: '/images/1.jpg',
     // tags: ['Mongo', 'Express', 'React', 'Node'],
@@ -22,7 +22,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'InternTheory',
+    title: 'InternTheory.com',
     description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
     image: '/images/3.png',
     tags: ['HTML', 'CSS', "javaScript", "Mock Server", "localstorage"],
@@ -32,7 +32,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'InternTheory',
+    title: 'InternTheory.com',
     description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
     image: '/images/3.png',
     tags: ['E js', 'Node', 'express', "mongoDB"],
