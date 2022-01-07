@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/1.jpg',
     // tags: ['Mongo', 'Express', 'React', 'Node'],
     tags: ['HTML', 'CSS', 'JavaScript'],
-    source: '#',
+    source: 'https://ecstatic-bohr-8eb6f3.netlify.app',
     visit: 'https://github.com/surajmasai/strawberrynet',
     blog: "https://myfistblog.hashnode.dev/experience-of-cloning-strawberrynetcom",
     id: 0,
