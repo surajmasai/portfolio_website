@@ -21,16 +21,6 @@ export const projects = [
     blog: "https://medium.com/@sksurajkumar7080/experience-cloning-boat-lifestyle-com-47f1b12ce349",
     id: 1,
   },
-  // {
-  //   title: 'InternTheory.com',
-  //   description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
-  //   image: '/images/3.png',
-  //   tags: ['HTML', 'CSS', "javaScript", "Mock Server", "localstorage"],
-  //   source: '#',
-  //   visit: 'https://github.com/RoushanFW196/intern-theoryclone-unit3-project',
-  //   blog: "https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922",
-  //   id: 2,
-  // },
   {
     title: 'InternTheory.com',
     description: "Intern Theory is a website where you can search and apply for internships and jobs and also purchase courses.",
@@ -40,6 +30,16 @@ export const projects = [
     visit: 'https://github.com/RoushanFW196/Intern-Theory-clone-Ejs',
     blog: "https://medium.com/@roushankumar6338/intern-theory-clone-abb5f424cb5d",
     id: 3,
+  },
+  {
+    title: 'Practo',
+    description: "Practo is a online consulting with doctors for any kind of health problems. and sells medicines app.",
+    image: '/images/5.png',
+    tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
+    source: '#',
+    visit: 'https://github.com/surajmasai/Clone-Practo',
+    blog: "https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922",
+    id: 2,
   },
 ];
 
