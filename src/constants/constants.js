@@ -41,6 +41,16 @@ export const projects = [
     blog: "https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922",
     id: 2,
   },
+  {
+    title: 'Amazon',
+    description: "This is a E-commerce website",
+    image: '/images/6.png',
+    tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
+    source: 'https://amazon-clone-seven-silk.vercel.app/',
+    visit: ' https://github.com/surajmasai/amazon-clone',
+    blog: "/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
