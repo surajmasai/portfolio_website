@@ -36,9 +36,9 @@ export const projects = [
     description: "Practo is a online consulting with doctors for any kind of health problems. and sells medicines app.",
     image: '/images/5.png',
     tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
-    source: '#',
+    source: 'https://clone-practo.vercel.app/',
     visit: 'https://github.com/surajmasai/Clone-Practo',
-    blog: "https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922",
+    blog: "/",
     id: 2,
   },
   {
@@ -51,6 +51,26 @@ export const projects = [
     blog: "/",
     id: 4,
   },
+  {
+    title: 'Tic Tac Toc',
+    description: "Game",
+    image: '/images/7.png',
+    tags: ['HTML', 'CSS', "javaScript", "React"],
+    source: 'https://laughing-dijkstra-41a0d9.netlify.app/',
+    visit: 'https://github.com/surajmasai/TicTacToe',
+    blog: "/",
+    id: 5,
+  },
+  {
+    title: 'Stopwatch',
+    description: "Stopwatch",
+    image: '/images/8.png',
+    tags: ['HTML', 'CSS', "javaScript", "React"],
+    source: 'https://react-stopwatch-pink.vercel.app',
+    visit: 'https://github.com/surajmasai/react_stopwatch',
+    blog: "/",
+    id: 6,
+  }
 ];
 
 export const TimeLineData = [
