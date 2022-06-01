@@ -70,6 +70,16 @@ export const projects = [
     visit: 'https://github.com/surajmasai/react_stopwatch',
     blog: "/",
     id: 6,
+  },
+  {
+    title: 'CollectionKart',
+    description: "This is a E-commerce website",
+    image: '/images/8.png',
+    tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
+    source: 'https://collectionkart.vercel.app/',
+    visit: 'https://github.com/surajmasai/collectionkart',
+    blog: "/",
+    id: 7,
   }
 ];
 
