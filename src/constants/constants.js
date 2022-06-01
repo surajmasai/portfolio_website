@@ -74,7 +74,7 @@ export const projects = [
   {
     title: 'CollectionKart',
     description: "This is a E-commerce website",
-    image: '/images/8.png',
+    image: '/images/9.png',
     tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
     source: 'https://collectionkart.vercel.app/',
     visit: 'https://github.com/surajmasai/collectionkart',
