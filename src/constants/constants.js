@@ -45,7 +45,7 @@ export const projects = [
     title: 'Amazon',
     description: "This is a E-commerce website",
     image: '/images/6.png',
-    tags: ['HTML', 'CSS', "javaScript", "React", "Redux"],
+    tags: ['HTML', 'CSS', "javaScript", "React", "Redux", "Node", "Express", "mongoDB"],
     source: 'https://amazon-clone-seven-silk.vercel.app/',
     visit: ' https://github.com/surajmasai/amazon-clone',
     blog: "/",
