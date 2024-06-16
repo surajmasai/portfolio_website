@@ -23,6 +23,7 @@ const Technologies = () => (
             CSS3 <br />
             JavaScript <br />
             React.js <br />
+            Next.js <br />
             Redux <br />
           </ListParagraph>
         </ListContainer>
@@ -62,6 +63,8 @@ const Technologies = () => (
           <ListTitle>Database</ListTitle>
           <ListParagraph>
             MongoDB <br />
+            SQL <br />
+
 
           </ListParagraph>
         </ListContainer>
@@ -74,6 +77,7 @@ const Technologies = () => (
           <ListTitle>Hosting Platform</ListTitle>
           <ListParagraph>
             Netlify <br />
+            Vercel <br />
             Heroku <br />
             Github <br />
           </ListParagraph>

@@ -45,7 +45,7 @@ const Header = () => (
       <SocialIcons href="https://www.linkedin.com/in/surajkr1999/" target="_blank">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://drive.google.com/file/d/127yfvAttx16EfZPq78sAFpR2vvy1xqE0/view" target="_blank">
+      <SocialIcons href="https://drive.google.com/file/d/1ONY3vpBbwy09cuM4qfDgzZs9j5FvVxrn/view" target="_blank">
         <AiOutlineCloudDownload size="3rem" />
       </SocialIcons>
     </Div3>
